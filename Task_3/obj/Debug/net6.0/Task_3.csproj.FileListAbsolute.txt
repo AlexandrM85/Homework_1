@@ -1,0 +1,15 @@
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Разное\Обучение\Семинары С#\Homework\Task_3\obj\Debug\net6.0\ref\Task_3.dll
